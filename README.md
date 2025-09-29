@@ -1,6 +1,13 @@
 # Electromagnet Driver Circuit
-This circuit is designed to drive an electromagnet using Raspberry Pi GPIO pins.
 
-![boardview](pcb1.png)
-![boardview](pcb2.png)
-![boardview](pcb3.png)
+<p align="center">
+  <img src="images/pcb1.png" width="300">
+</p>
+
+<p align="center">
+  <img src="images/pcb2.png" width="300">
+</p>
+
+<p align="center">
+  <img src="images/pcb3.png" width="300">
+</p>
